@@ -1,5 +1,5 @@
-# MAZE/OBSTACLE ROBO
-A maze/obstacle navigation robot using infrared sensors
+# MAZE/OBSTACLE ROBO with PWM Motor Control
+A maze/obstacle navigation robot using infrared sensors and with PWM Motor Control
 
 
 **PROJECT OVERVIEW**
@@ -20,8 +20,10 @@ This project uses an ESP-32 and infrared sensors on a custom-made chassis to nav
 - CHATGPT
 
 **ARCHITECTURE**
+<img width="1213" height="400" alt="image" src="https://github.com/user-attachments/assets/41d8109e-8815-424a-bb37-b230b05d89a6" />
 
-**CIRCUIT DIAGRAM**
+**FLOW CHART**
+<img width="1057" height="491" alt="image" src="https://github.com/user-attachments/assets/d3ec2459-6c99-47fa-ad95-dd07edbb427c" />
 
 **PICTURES**
 <img width="2400" height="1080" alt="image" src="https://github.com/user-attachments/assets/2d1dc84d-25ed-4103-962e-e25673bf5705" />
