@@ -1,3 +1,4 @@
+[MAZE_NAV_ROBO_CODE.txt](https://github.com/user-attachments/files/30833658/MAZE_NAV_ROBO_CODE.txt)
 # MAZE/OBSTACLE ROBO
 A maze/obstacle navigation robot using infrared sensors
 
@@ -35,4 +36,8 @@ This project uses an ESP-32 and infrared sensors on a custom-made chassis to nav
 **RESULTS**
 
 **CODE**
-  
+<details>
+  <summary>Click to expand code snippet</summary>
+[MAZE_NAV_ROBO_CODE.txt](https://github.com/user-attachments/files/30833660/MAZE_NAV_ROBO_CODE.txt)
+
+
