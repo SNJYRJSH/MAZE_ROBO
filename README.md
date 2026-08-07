@@ -23,6 +23,12 @@ This project uses an ESP-32 and infrared sensors on a custom-made chassis to nav
 
 **CIRCUIT DIAGRAM**
 
+**PICTURES**
+
+<img width="542" height="1204" alt="image" src="https://github.com/user-attachments/assets/37c7ad83-0907-4e1c-877d-5df524fc42a2" />
+<img width="2400" height="1080" alt="image" src="https://github.com/user-attachments/assets/2d1dc84d-25ed-4103-962e-e25673bf5705" />
+
+
 **WORKING PRINCIPLE**
 - The ultrasonic sensors are used to determine whether an obstacle is in the vicinity. When the left and right IR sensors are active, but the front one isn't, that means that the robot should go straight. When either side IR sensors becomes inactive, that means the robot should turn in that direction. While turning, the wheels should move in opposite directions.
 
@@ -34,7 +40,10 @@ This project uses an ESP-32 and infrared sensors on a custom-made chassis to nav
 
 **RESULTS**
 
+https://youtu.be/0ctTs6YcSak?si=aV5JW_eKZYqfNwxG
+
 **CODE**
+
 [MAZE_NAV_ROBO_CODE.txt](https://github.com/user-attachments/files/30833813/MAZE_NAV_ROBO_CODE.txt)
 
 
