@@ -16,8 +16,7 @@ This project uses an ESP-32 and infrared sensors on a custom-made chassis to nav
 - 1 5V to 3.3 V Buck converter (FOR THE ESP32)
 
 **SOFTWARE USED**
-- ARDUINO IDE
-- CHATGPT
+- C/C++ within Arduino IDE
 
 **ARCHITECTURE**
 <img width="1213" height="400" alt="image" src="https://github.com/user-attachments/assets/41d8109e-8815-424a-bb37-b230b05d89a6" />
