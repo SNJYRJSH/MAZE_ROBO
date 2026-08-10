@@ -30,7 +30,7 @@ This project uses an ESP-32 and infrared sensors on a custom-made chassis to nav
 <img width="542" height="1204" alt="image" src="https://github.com/user-attachments/assets/37c7ad83-0907-4e1c-877d-5df524fc42a2" />
 
 **WORKING PRINCIPLE**
-- The ultrasonic sensors are used to determine whether an obstacle is in the vicinity. When the left and right IR sensors are active, but the front one isn't, that means that the robot should go straight. When either side IR sensors becomes inactive, that means the robot should turn in that direction. While turning, the wheels should move in opposite directions.
+- The Infrared sensors are used to determine whether an obstacle is in the vicinity. When the left and right IR sensors are active, but the front one isn't, that means that the robot should go straight. When either side IR sensors becomes inactive, that means the robot should turn in that direction. While turning, the wheels should move in opposite directions.
 
 **CHALLENGES**
 - Soldering of the wires to the PERFBOARD
